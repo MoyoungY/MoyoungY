@@ -1,5 +1,4 @@
 ### 🌱 I’m currently learning computer science and optics.
-### 📫 How to reach me: moyoungyuan@foxmail.com
 
 <!--
 **MoyoungY/MoyoungY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
